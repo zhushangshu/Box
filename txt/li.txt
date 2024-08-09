@@ -20,6 +20,7 @@ CCTV-12,http://czkeji.vip:9000/udp/239.252.220.187:5140
 CCTV-13,http://czkeji.vip:9000/udp/239.252.219.139:5140
 CCTV-14,http://czkeji.vip:9000/udp/239.252.220.92:5140
 CCTV-15,http://czkeji.vip:9000/udp/239.252.219.79:5140
+CCTV-16,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.184:8001
 CCTV-17,http://czkeji.vip:9000/udp/239.252.220.192:5140
 
 CCTV-1,http://ojbk.02200059.xyz:4022/udp/226.1.30.1:6000
@@ -66,7 +67,7 @@ CHC家庭电影,http://ojbk.02200059.xyz:4022/udp/226.1.30.179:6000
 CHC动作电影,http://ojbk.02200059.xyz:4022/udp/226.1.30.180:6000
 CHC高清电影,http://ojbk.02200059.xyz:4022/udp/226.1.30.181:6000
 
-亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8
+亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8#http://4gtv.mumi.rip:9877/250/litv-longturn17/index.m3u8
 兵器科技,http://ojbk.02200059.xyz:4022/udp/226.1.30.63:6000
 第一剧场,http://ojbk.02200059.xyz:4022/udp/226.1.30.64:6000
 风云剧场,http://ojbk.02200059.xyz:4022/udp/226.1.30.110:6000

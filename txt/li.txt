@@ -1243,7 +1243,6 @@ GRTN健康频道,http://glive.grtn.cn/live/health.m3u8
 陕西乐家购物,http://gxlive.snrtv.com/sx6-SD.m3u8
 陕西体育休闲,http://gxlive.snrtv.com/sx7-SD.m3u8
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
-陕西移动,http://dsk.cc/sxtv/sxtv.php?id=sxyd
 
 ├内札萨克┤,#genre#
 
@@ -1296,8 +1295,6 @@ GRTN健康频道,http://glive.grtn.cn/live/health.m3u8
 辽宁影视剧,http://www.zhongyunkj.com:58008/paiptv/LNYSJ.m3u8
 新闻综合,http://cd.sy012.com:4000/rtp/232.0.0.238:9260
 生活服务,http://cd.sy012.com:4000/rtp/232.0.0.239:9262
-
-
 
 ┌中国之声┐,#genre#
 

@@ -106,7 +106,7 @@ CCTV-15,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.153:8136
 CCTV-16,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.184:8001
 CCTV-17,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.151:8144
 
-CHC家庭电影,http://ojbk.02200059.xyz:4022/udp/226.1.30.179:6000
+CHC家庭影院,http://ojbk.02200059.xyz:4022/udp/226.1.30.179:6000
 CHC动作电影,http://ojbk.02200059.xyz:4022/udp/226.1.30.180:6000
 CHC高清电影,http://ojbk.02200059.xyz:4022/udp/226.1.30.181:6000
 
@@ -668,9 +668,6 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 哈哈炫动,http://cd.sy012.com:4000/rtp/232.0.0.103:8636
 
 ├综合频道┤,#genre#
-
-凤凰中文,http://mmitv.top/pltv/multicast.php?id=凤凰中文&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=78cee9a6&tag=live
-凤凰资讯,http://mmitv.top/pltv/multicast.php?id=凤凰资讯&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=945a2ec9&tag=live
 
 凤凰资讯,http://114.132.99.29:8883/代理文件.php?vd=uu2&id=fhzx
 凤凰中文,http://114.132.99.29:8883/代理文件.php?vd=uu2&id=fhzw

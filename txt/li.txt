@@ -39,6 +39,10 @@ CETV-3,http://mmitv.top/pltv/multicast.php?id=CETV3&user=szqbzi&st=2ec08f83&et=2
 CETV-4,http://mmitv.top/pltv/multicast.php?id=CETV4&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=7ca02d60&tag=live
 CETV早期教育,http://mmitv.top/pltv/multicast.php?id=CETV早期教育&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=3908b66e&tag=live
 
+CHC动作电影,http://mmitv.top/pltv/multicast.php?id=CHC动作电影&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=1326e06b&tag=live
+CHC家庭影院,http://mmitv.top/pltv/multicast.php?id=CHC家庭影院&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=f1bcc9a2&tag=live
+CHC高清电影,http://mmitv.top/pltv/multicast.php?id=CHC高清电影&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=f4dbc877&tag=live
+
 CCTV-1,http://czkeji.vip:9000/udp/239.252.219.200:5140
 CCTV-2,http://czkeji.vip:9000/udp/239.252.220.183:5140
 CCTV-3,http://czkeji.vip:9000/udp/239.252.219.252:5140
@@ -664,6 +668,9 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 哈哈炫动,http://cd.sy012.com:4000/rtp/232.0.0.103:8636
 
 ├综合频道┤,#genre#
+
+凤凰中文,http://mmitv.top/pltv/multicast.php?id=凤凰中文&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=78cee9a6&tag=live
+凤凰资讯,http://mmitv.top/pltv/multicast.php?id=凤凰资讯&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=945a2ec9&tag=live
 
 凤凰资讯,http://114.132.99.29:8883/代理文件.php?vd=uu2&id=fhzx
 凤凰中文,http://114.132.99.29:8883/代理文件.php?vd=uu2&id=fhzw

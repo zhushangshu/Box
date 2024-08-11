@@ -212,7 +212,6 @@ CCTV-17,http://giwon.ddns.net:5555/udp/239.93.0.92:5140
 河南卫视,http://mmitv.top/pltv/multicast.php?id=河南卫视&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=7472fe07&tag=live
 云南卫视,http://mmitv.top/pltv/multicast.php?id=云南卫视&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=b03a0629&tag=live
 广西卫视,http://mmitv.top/pltv/multicast.php?id=广西卫视&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=98ce2e2b&tag=live
-大湾区卫视,http://mmitv.top/pltv/multicast.php?id=大湾区卫视&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=8ad92386&tag=live
 青海卫视,http://mmitv.top/pltv/multicast.php?id=青海卫视&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=bc2982b7&tag=live
 宁夏卫视,http://mmitv.top/pltv/multicast.php?id=宁夏卫视&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=2f155a44&tag=live
 陕西卫视,http://mmitv.top/pltv/multicast.php?id=陕西卫视&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=e45765f0&tag=live
@@ -225,11 +224,9 @@ CCTV-17,http://giwon.ddns.net:5555/udp/239.93.0.92:5140
 延边卫视,http://mmitv.top/pltv/multicast.php?id=延边卫视&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=a9dfe00d&tag=live
 海峡卫视,http://mmitv.top/pltv/multicast.php?id=海峡卫视&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=ba999b30&tag=live
 厦门卫视,http://mmitv.top/pltv/multicast.php?id=厦门卫视&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=1af38a17&tag=live
-四川康巴卫视,http://mmitv.top/pltv/multicast.php?id=四川康巴卫视&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=ebaf1aee&tag=live
 兵团卫视,http://mmitv.top/pltv/multicast.php?id=兵团卫视&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=99be21d9&tag=live
 农林卫视,http://mmitv.top/pltv/multicast.php?id=农林卫视&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=cb9145fa&tag=live
 安多卫视,http://mmitv.top/pltv/multicast.php?id=安多卫视&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=04e723cd&tag=live
-山东教育卫视,http://mmitv.top/pltv/multicast.php?id=山东教育卫视&user=szqbzi&st=2ec08f83&et=2ec11h83&np=1c28nb8f&isp=telnet&token=04dd010d&tag=live
 
 安徽卫视,http://ojbk.02200059.xyz:4022/udp/226.1.30.26:6000
 北京卫视,http://ojbk.02200059.xyz:4022/udp/226.1.30.18:6000

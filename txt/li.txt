@@ -326,16 +326,6 @@ CCTV-17,http://giwon.ddns.net:5555/udp/239.93.0.92:5140
 
 ├体育频道┤,#genre#
 
-魅力足球,http://hlsbkmgsplive.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
-劲爆体育,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
-NBA经典,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/nba/57/20230310/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
-中国足球风云,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/eufootball/57/20230310/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
-全民乒乓,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/pingpang/57/20230310/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
-UFC格斗精选,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/ufc/57/20230310/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
-五大联赛经典,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/wudaliansai/57/20230310/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
-赛事最经典,http://hlsbkmgsplive.miguvideo.com/wd_r3/cctv/saishijingdian/600/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
-体坛名栏汇,http://hlsbkmgsplive.miguvideo.com/wd_r3/cctv/titanminglan/600/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
-
 红牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8#http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 欧洲体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
 极限运动,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
@@ -352,9 +342,6 @@ UFC格斗精选,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/ufc/57/20230310/01
 嘉佳卡通,http://cd.sy012.com:4000/rtp/232.0.0.180:9178
 动漫秀场,http://cd.sy012.com:4000/rtp/232.0.0.140:9304
 哈哈炫动,http://cd.sy012.com:4000/rtp/232.0.0.103:8636
-
-嘉佳卡通,http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
-优漫卡通,http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/ymkt/600/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
 
 ├综合频道┤,#genre#
 

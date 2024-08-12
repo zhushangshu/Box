@@ -23,6 +23,24 @@ CCTV-15,http://czkeji.vip:9000/udp/239.252.219.79:5140
 CCTV-16,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.184:8001
 CCTV-17,http://czkeji.vip:9000/udp/239.252.220.192:5140
 
+CCTV-1,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+CCTV-2,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/1500/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+CCTV-3,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+CCTV-4,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/1500/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+CCTV-5,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+CCTV-5+,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+CCTV-6,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+CCTV-7,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/57/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+CCTV-8,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+CCTV-9,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/57/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+CCTV-10,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+CCTV-11,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd/57/20200103/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+CCTV-12,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/57/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+CCTV-13,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+CCTV-14,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+CCTV-15,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+CCTV-17,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/57/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+
 CCTV-1,http://ojbk.02200059.xyz:4022/udp/226.1.30.1:6000
 CCTV-2,http://ojbk.02200059.xyz:4022/udp/226.1.30.2:6000
 CCTV-3,http://ojbk.02200059.xyz:4022/udp/226.1.30.3:6000
@@ -173,6 +191,32 @@ CCTV-17,http://giwon.ddns.net:5555/udp/239.93.0.92:5140
 浙江卫视,http://ojbk.02200059.xyz:4022/udp/226.1.30.19:6000
 重庆卫视,http://ojbk.02200059.xyz:4022/udp/226.1.30.34:6000
 
+东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+重庆卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+吉林卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/liaoningwshd/3000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+内蒙古卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/neimeng/1000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+宁夏卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/ningxia/1000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+甘肃卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/gansu/1000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+青海卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+陕西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+山东卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+山东教育卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/shandongedu/1000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+湖北卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/hubeiwshd/57/20220712/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+湖南卫视,http://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+河南卫视,http://hlsbkmgsplive.miguvideo.com/wd-henanwssd-600/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+广西卫视,http://hlsbkmgsplive.miguvideo.com/wd-guangxiwssd-600/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+云南卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/yunnan/1000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+贵州卫视,http://hlsbkmgsplive.miguvideo.com/wd-guizhouwssd-600/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+江苏卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/2500/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+广东卫视,http://hlsbkmgsplive.miguvideo.com/ws_w/gdws/gdws3000/3000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+大湾区卫视,http://hlsbkmgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/1000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+新疆卫视,http://hlsbkmgsplive.miguvideo.com/wd-xinjiangwssd-600/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+西藏卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/xizang/1000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+海南卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+海峡卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+东南卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/57/20230724/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+
 甘肃卫视,http://czkeji.vip:9000/udp/239.252.219.140:5140
 海南卫视,http://czkeji.vip:9000/udp/239.252.219.178:5140
 广西卫视,http://czkeji.vip:9000/udp/239.252.219.183:5140
@@ -282,6 +326,16 @@ CCTV-17,http://giwon.ddns.net:5555/udp/239.93.0.92:5140
 
 ├体育频道┤,#genre#
 
+魅力足球,http://hlsbkmgsplive.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+劲爆体育,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+NBA经典,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/nba/57/20230310/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+中国足球风云,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/eufootball/57/20230310/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+全民乒乓,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/pingpang/57/20230310/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+UFC格斗精选,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/ufc/57/20230310/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+五大联赛经典,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/wudaliansai/57/20230310/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+赛事最经典,http://hlsbkmgsplive.miguvideo.com/wd_r3/cctv/saishijingdian/600/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+体坛名栏汇,http://hlsbkmgsplive.miguvideo.com/wd_r3/cctv/titanminglan/600/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+
 红牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8#http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 欧洲体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
 极限运动,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
@@ -298,6 +352,9 @@ CCTV-17,http://giwon.ddns.net:5555/udp/239.93.0.92:5140
 嘉佳卡通,http://cd.sy012.com:4000/rtp/232.0.0.180:9178
 动漫秀场,http://cd.sy012.com:4000/rtp/232.0.0.140:9304
 哈哈炫动,http://cd.sy012.com:4000/rtp/232.0.0.103:8636
+
+嘉佳卡通,http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
+优漫卡通,http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/ymkt/600/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
 
 ├综合频道┤,#genre#
 

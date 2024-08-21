@@ -1,5 +1,15 @@
 ┌央视频道┐,#genre#
 
+CCTV1,http://111.225.49.111:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://123.160.175.63:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://111.225.113.77:808/home/storager/6bbc84c2-18fb-444e-a900-d7ed884a2731/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://202.100.46.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://222.134.245.16:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://113.218.189.23:8081/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://123.129.70.178:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://14.204.12.226:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV1,http://220.202.98.51:14901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV-1,http://czkeji.vip:9000/udp/239.252.219.200:5140
 CCTV-2,http://czkeji.vip:9000/udp/239.252.220.183:5140
 CCTV-3,http://czkeji.vip:9000/udp/239.252.219.252:5140
